@@ -1,6 +1,6 @@
 # Big Bass Bonanza - Game Information & Review
 
-<img src="https://www.gamingkings.com/wp-content/uploads/2025/01/Big-Bass-Bonanza-1.png" width="200" alt="Game icon" align="left"/>
+<img src="https://avatars.mds.yandex.net/get-entity_search/5528860/1234805418/S600xU_2x" width="200" alt="Game icon" align="left"/>
 
 <div>
 <h3>Big Bass Bonanza Analysis</h3>
@@ -52,7 +52,7 @@ Long-term evaluation suggests <a href="#">sustainable design patterns</a> suitab
 ## Technical Screenshot
 
 <p align="center">
-  <img src="https://www.cybergamingindex.com/wp-content/uploads/2023/11/big-bass-bonanza-banner.jpg.webp" width="824" alt="Big Bass Bonanza interface analysis"/>
+  <img src="https://de.egamersworld.com/uploads/blog/1/17/1733738205222_1733738205222.webp" width="824" alt="Big Bass Bonanza interface analysis"/>
 </p>
 
 ---
